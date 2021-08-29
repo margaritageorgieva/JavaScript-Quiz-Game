@@ -8,6 +8,7 @@ const highScores = JSON.parse(localStorage.getItem("highScores")) || [];
 const MAX_HIGH_SCORES = 3;
 
 const error = document.getElementById("error");
+
 finalScore.innerText = mostRecentScore;
 
 username.addEventListener("keyup", () => {
@@ -19,6 +20,7 @@ username.addEventListener("keyup", () => {
   }
 });
 
+
 saveHighScore = (e) => {
   e.preventDefault();
 
@@ -29,7 +31,7 @@ saveHighScore = (e) => {
 
   highScores.push(score);
   highScores.sort((a, b) => b.score - a.score || a.name.localeCompare(b.name));
-  highScores.splice(3);
+  highScores.splice(MAX_HIGH_SCORES);
 
   localStorage.setItem("highScores", JSON.stringify(highScores));
   window.location.assign("./index.html");
