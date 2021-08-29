@@ -1,0 +1,30 @@
+#highScoresList {
+  list-style: none;
+  padding-left: 0;
+  margin-top: 20rem;
+}
+
+#highScoresTitle {
+ position: fixed;
+ top: 170px;
+  font-size: 11.5rem;
+}
+
+.high-score {
+  font-size: 3rem;
+  margin-bottom: 0.5rem;
+}
+
+.high-score:hover {
+  transform: scale(1.035);
+}
+
+#cloud-img-highscores {
+  width: 55%;
+  position: absolute;
+  top: 70px;
+}
+
+#btn-go-home{
+  margin-top: 20px;
+}

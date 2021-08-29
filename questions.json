@@ -1,0 +1,84 @@
+[
+    {
+      "question": "Inside which HTML element do we put the JavaScript ?",
+      "choice1": "<script>",
+      "choice2": "<javascript>",
+      "choice3": "<js>",
+      "choice4": "<scripting>",
+      "answer": 1
+    },
+    {
+      "question": "How do you call a function named 'myFunction' ?",
+      "choice1": "call myFunction()",
+      "choice2": "myFunction()",
+      "choice3": "call function",
+      "choice4": "function myFunction()",
+      "answer": 2
+    },
+    {
+      "question": "What is the correct syntax for referring to an external script called 'xxx.js' ?",
+      "choice1": "<script href='xxx.js'>",
+      "choice2": "<script name='xxx.js'>",
+      "choice3": "<script src='xxx.js'>",
+      "choice4": "<script file='xxx.js'>",
+      "answer": 3
+    },
+    {
+      "question": "What's the typeof null ?",
+      "choice1": "object",
+      "choice2": "number",
+      "choice3": "null",
+      "choice4": "undefined",
+      "answer": 1
+    },
+    {
+      "question": "How do you write 'Hello World' in an alert box ?",
+      "choice1": "msgBox('Hello World');",
+      "choice2": "alertBox('Hello World');",
+      "choice3": "msg('Hello World');",
+      "choice4": "alert('Hello World');",
+      "answer": 4
+    },
+    {
+      "question": "How do you round the number 3.25, to the nearest integer ?",
+      "choice1": "Math.round(3.25)",
+      "choice2": "Math.floor(3.25)",
+      "choice3": "Round(3.25)",
+      "choice4": "Math.abs(3.25)",
+      "answer": 1
+    },
+    {
+      "question": "Which built-in method returns the character at the specified index ?",
+      "choice1": "fromCharCode()",
+      "choice2": "charAt()",
+      "choice3": "charCodeAt()",
+      "choice4": "None of the above",
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is true about typeof operator in JavaScript ?",
+      "choice1": "Its value is a string indicating the data type of the operand",
+      "choice2": "Can be used for all types that exist in javascript",
+      "choice3": "The typeof is a  operator that is placed before its single operand",
+      "choice4": "All of the above",
+      "answer": 4
+    },
+    {
+      "question": "A function associated with object is called ?",
+      "choice1": "Function",
+      "choice2": "Link",
+      "choice3": "Method",
+      "choice4": "Arrow function",
+      "answer": 3
+    },
+    {
+      "question": "Which event occurs when the user clicks on an HTML element ?",
+      "choice1": "onchange",
+      "choice2": "onclick",
+      "choice3": "onmouseover",
+      "choice4": "onmouseclick",
+      "answer": 2
+    }
+
+  ]
+  
