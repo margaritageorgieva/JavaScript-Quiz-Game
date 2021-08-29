@@ -6,7 +6,6 @@ const progressBarFull = document.getElementById("progressBarFull");
 
 let currentQuestion = {};
 let acceptingAnswers = false;
-
 let score = 0;
 let questionCounter = 0;
 
@@ -44,7 +43,6 @@ getNewQuestion = () => {
   }
 
   questionCounter++;
-
   progressText.innerText = `Question ${questionCounter}/${MAX_QUESTIONS}`;
 
   // Update the progress bar
