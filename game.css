@@ -12,7 +12,6 @@
   transform: translateY(-0.1rem);
   transition: transform 150ms;
   box-shadow: 0px 0.2px 1px rgb(105, 105, 105);
-
 }
 
 .choice-prefix {
@@ -38,7 +37,6 @@
 }
 
 /* HUD */
-
 #hud {
   display: flex;
   justify-content: space-between;
@@ -61,6 +59,7 @@
   border: 0.3rem solid #56a5eb;
   margin-top: 1.5rem;
   border-radius: 10px;
+  padding-top: 0.5px;
 }
 
 #progressBarFull {

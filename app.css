@@ -33,7 +33,6 @@ h1 {
 
 #big-title {
   margin-bottom: 100px;
-
 }
 
 h2 {
@@ -42,7 +41,6 @@ h2 {
   font-weight: 600;
   font-family: 'Klee One', cursive;
   margin-top: -20px;
-
 }
 
 h3 {
@@ -55,10 +53,7 @@ h3 {
   position: absolute;
   top: 65px;
   z-index: -1;
-
 }
-
-
 
 /* UTILITIES */
 .container {
@@ -138,7 +133,6 @@ h3 {
   position: absolute;
   top: 30px;
   left: 25px;
-
 }
 
 .more a {
@@ -153,7 +147,6 @@ h3 {
   display: inline-block;
   color: #3590e1;
 }
-
 
 /* FORMS - end page */
 form {
@@ -208,7 +201,6 @@ input:focus {
   position: absolute;
   top: 55px;
 }
-
 #error {
   color: rgb(255, 72, 72);
   font-size: 15px;
