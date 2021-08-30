@@ -26,3 +26,6 @@ The user can check the list of the 3 highest scores stored in the local memory, 
 * The result obtained so far is shown on the top right
 * After answering all the questions, the final result is displayed on the screen and you can save it or restart the game.
 
+![img](https://user-images.githubusercontent.com/44364396/131411314-d947ec6f-6f6d-46ed-844b-5622152d6646.png)
+
+
