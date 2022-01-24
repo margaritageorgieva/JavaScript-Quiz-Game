@@ -12,7 +12,7 @@ The user can check the list of the 3 highest scores stored in the local memory, 
 
 ### Features:
 - Dynamically show/hide elements
-- Stored the high scores in Local Storage
+- Stored the high scores in Local Storage and sort them in descending order
 - Using Flexbox and CSS Animations
 - Simple validation for input field
 - Dynamic progress bar and score counter
