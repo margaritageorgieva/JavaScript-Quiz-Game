@@ -6,8 +6,8 @@
 
 #highScoresTitle {
   position: fixed;
-  top: 170px;
-  font-size: 11.5rem;
+  top: 173px;
+  font-size: 11rem;
 }
 
 .high-score {
@@ -20,7 +20,7 @@
 }
 
 #cloud-img-highscores {
-  width: 55%;
-  position: absolute;
-  top: 70px;
+  width: 800px;
+  position: fixed;
+  top: 75px;
 }
