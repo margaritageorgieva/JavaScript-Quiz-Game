@@ -12,6 +12,7 @@ The user can check the list of the 3 highest scores stored in the local memory, 
 
 ### Features:
 - Dynamically show/hide elements
+- Fetch questions and answers from JSON file 
 - Stored the high scores in Local Storage and sort them in descending order
 - Using Flexbox and CSS Animations
 - Simple validation for input field
