@@ -1,6 +1,6 @@
 # JavaScript-Quiz-Game
 🧠 A multiple choice quiz game, implemented using JavaScript and HTML5 and is styled using CSS3.
-    https://margaritageorgieva.github.io/JavaScript-Quiz-Game/
+    https://margaritageorgieva.github.io/JavaScript-Quiz-Game/ 
 
 ### Description:
 This is a quiz game that contains questions about JavaScript. 
