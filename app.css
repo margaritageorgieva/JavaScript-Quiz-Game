@@ -16,16 +16,11 @@
 }
 
 h1 {
-  font-size: 12.3rem;
+  font-size: 12rem;
   color: #56a5eb;
   font-family: 'Nerko One', cursive;
   text-shadow: -1px 1.2px 1px #000;
   z-index: 1;
-
-}
-
-#big-title {
-  margin-bottom: 100px;
 }
 
 h2 {
@@ -41,10 +36,15 @@ h3 {
   font-weight: 500;
 }
 
+#big-title {
+  margin-bottom: 100px;
+  z-index: 1;
+}
+
 #big-cloud {
-  width: 60%;
-  position: absolute;
-  top: 65px;
+  width: 900px;
+  position: fixed;
+  top: 60px;
   z-index: -1;
 }
 
@@ -115,7 +115,7 @@ h3 {
 
 /* cloud-btn return to home */
 #cloud-home-btn {
-  width: 8%;
+  width: 100px;
   position: absolute;
   top: 10px;
   left: 10px;
@@ -124,8 +124,8 @@ h3 {
 
 .more {
   position: absolute;
-  top: 30px;
-  left: 25px;
+  top: 25px;
+  left: 15px;
 }
 
 .more a {
@@ -162,7 +162,7 @@ form {
 #finalScore {
   position: fixed;
   top: 140px;
-  font-size: 12.3rem;
+  font-size: 12rem;
   color: #56a5eb;
   margin-bottom: 70px;
   font-family: 'Nerko One', cursive;
@@ -189,11 +189,12 @@ input:focus {
 }
 
 #cloud-img {
-  width: 30%;
-  z-index: -1;
-  position: absolute;
-  top: 55px;
+  width: 400px;
+z-index: -1;
+position: fixed;
+top: 65px;;
 }
+
 #error {
   color: rgb(255, 72, 72);
   font-size: 15px;
