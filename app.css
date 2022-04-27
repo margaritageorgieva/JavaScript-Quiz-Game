@@ -37,7 +37,8 @@ h3 {
 }
 
 #big-title {
-  margin-bottom: 100px;
+  position: fixed;
+  top: 180px;
   z-index: 1;
 }
 
@@ -100,6 +101,10 @@ h3 {
   z-index: 1;
 }
 
+#play-btn{
+  margin-top: 240px;
+}
+
 .btn:hover {
   cursor: pointer;
   box-shadow: 0 0.1rem 0.1rem 0 rgba(5, 7, 8, 0.301);
@@ -148,7 +153,7 @@ form {
   flex-direction: column;
   align-items: center;
   margin-top: 240px;
-} 
+}
 
 #your-score {
   font-size: 50px;
