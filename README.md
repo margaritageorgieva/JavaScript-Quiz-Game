@@ -17,8 +17,9 @@ The user can check the list of the 3 highest scores stored in the local memory, 
 - Fetch questions and answers from JSON file 
 - Stored the high scores in Local Storage and sort them in descending order
 - Using Flexbox and CSS Animations
-- Simple validation for input field
 - Dynamic progress bar and score counter
+- Simple validation for input field
+
 
 ### 🎮 How to play ? 🎮
 * Every question has 4 options, out of which only 1 is correct
