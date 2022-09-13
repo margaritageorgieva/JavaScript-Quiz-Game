@@ -1,7 +1,7 @@
-# JavaScript-Quiz-Game 
+# JavaScript-Quiz-Game
 
 
-🧠 A multiple choice quiz game, implemented using JavaScript and HTML5 and is styled using CSS3 - [Live demo](https://margaritageorgieva.github.io/JavaScript-Quiz-Game/ ) 
+🧠 A multiple choice quiz game, implemented using JavaScript and HTML5 and is styled using CSS3 - [`Live demo`](https://margaritageorgieva.github.io/JavaScript-Quiz-Game/ ) 
 
 
 ### Description:
@@ -31,5 +31,3 @@ The user can check the list of the 3 highest scores stored in the local memory, 
 * After answering all the questions, the final result is displayed on the screen and you can save it or restart the game.
 
 ![img](https://user-images.githubusercontent.com/44364396/131411314-d947ec6f-6f6d-46ed-844b-5622152d6646.png)
-
-
